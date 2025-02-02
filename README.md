@@ -279,6 +279,6 @@ Om alt nå fungerer skal du ha følgende:
         chmod +x ~/.xsessionrc
         ```
         
-4. **Start VM'en på nytt og test med `xev`.**
+4. **Start VM'en på nytt og test knappene i terminalen eller editor.**
 
 Dette er hele oppsettet fra start til slutt, slik at du kan gjenopprette konfigurasjonen om du må reinnstallere VM-en.
